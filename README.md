@@ -2,4 +2,4 @@
    * 기간 : 23. 11. 22
    * 내용 :
 
-<img src="4DIMAGE.PNG">
+<img src="4DIMAGE.JPG">
